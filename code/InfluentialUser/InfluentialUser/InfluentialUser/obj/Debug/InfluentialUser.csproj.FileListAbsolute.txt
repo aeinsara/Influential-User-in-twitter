@@ -1,0 +1,9 @@
+C:\Users\maryam\Desktop\InfluentialUser\InfluentialUser\InfluentialUser\obj\Debug\InfluentialUser.csprojResolveAssemblyReference.cache
+C:\Users\maryam\Desktop\InfluentialUser\InfluentialUser\InfluentialUser\bin\Debug\InfluentialUser.exe.config
+C:\Users\maryam\Desktop\InfluentialUser\InfluentialUser\InfluentialUser\bin\Debug\InfluentialUser.exe
+C:\Users\maryam\Desktop\InfluentialUser\InfluentialUser\InfluentialUser\bin\Debug\InfluentialUser.pdb
+C:\Users\maryam\Desktop\InfluentialUser\InfluentialUser\InfluentialUser\bin\Debug\TestCommon.dll
+C:\Users\maryam\Desktop\InfluentialUser\InfluentialUser\InfluentialUser\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\maryam\Desktop\InfluentialUser\InfluentialUser\InfluentialUser\bin\Debug\TestCommon.pdb
+C:\Users\maryam\Desktop\InfluentialUser\InfluentialUser\InfluentialUser\obj\Debug\InfluentialUser.exe
+C:\Users\maryam\Desktop\InfluentialUser\InfluentialUser\InfluentialUser\obj\Debug\InfluentialUser.pdb

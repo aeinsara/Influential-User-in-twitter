@@ -1,0 +1,16 @@
+C:\git\hashemi\AD97982\Common\TestCommon\bin\Debug\TestCommon.dll
+C:\git\hashemi\AD97982\Common\TestCommon\bin\Debug\TestCommon.pdb
+C:\git\hashemi\AD97982\Common\TestCommon\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\git\hashemi\AD97982\Common\TestCommon\obj\Debug\TestCommon.csprojResolveAssemblyReference.cache
+C:\git\hashemi\AD97982\Common\TestCommon\obj\Debug\TestCommon.dll
+C:\git\hashemi\AD97982\Common\TestCommon\obj\Debug\TestCommon.pdb
+C:\git\hashemi\AD97982\Common\TestCommon\bin\Debug\Microsoft.Solver.Foundation.dll
+C:\git\hashemi\AD97982\Common\TestCommon\bin\Debug\Microsoft.Solver.Foundation.xml
+C:\Users\maryam\Desktop\Common\TestCommon\bin\Debug\TestCommon.dll
+C:\Users\maryam\Desktop\Common\TestCommon\bin\Debug\TestCommon.pdb
+C:\Users\maryam\Desktop\Common\TestCommon\bin\Debug\Microsoft.Solver.Foundation.dll
+C:\Users\maryam\Desktop\Common\TestCommon\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\maryam\Desktop\Common\TestCommon\bin\Debug\Microsoft.Solver.Foundation.xml
+C:\Users\maryam\Desktop\Common\TestCommon\obj\Debug\TestCommon.csprojResolveAssemblyReference.cache
+C:\Users\maryam\Desktop\Common\TestCommon\obj\Debug\TestCommon.dll
+C:\Users\maryam\Desktop\Common\TestCommon\obj\Debug\TestCommon.pdb
